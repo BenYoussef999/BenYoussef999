@@ -28,10 +28,7 @@ MINDSET    = Continuous Learning
 
 ## 📊 Service Signals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benyoussef999&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyoussef999&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most used programming languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=benyoussef999&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
