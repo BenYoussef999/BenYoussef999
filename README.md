@@ -28,6 +28,7 @@ MINDSET    = Continuous Learning
 
 <p align="center">
   <sub>COMMIT · BUILD · LEARN · REPEAT</sub>
+</p>
 ## 📊 Service Signals
 
 
