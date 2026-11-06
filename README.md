@@ -23,9 +23,12 @@ MINDSET    = Continuous Learning
 ## 📈 Uptime in Motion
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/benyoussef999" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benyoussef999&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
+<p align="center">
+  <sub>Every contribution tells a story. Keep building, keep improving.</sub>
+</p>
 ## 📊 Service Signals
 
 
