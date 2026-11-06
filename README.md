@@ -36,32 +36,51 @@ MINDSET    = Continuous Learning
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Script-Prompt-Engineering-Analysis&theme=github_dark&hide_border=true" alt="Script Prompt Engineering Analysis" />
-  </a>
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Smart-Campus&theme=github_dark&hide_border=true" alt="Smart Campus" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Uber-cueillete&theme=github_dark&hide_border=true" alt="Uber cueillete" />
-  </a>
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Secure-Multi-Agent-Tool-Orchestration-for-the-Tunisian-Economy&theme=github_dark&hide_border=true" alt="Secure Multi Agent Tool Orchestration" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Agenda-Personnel&theme=github_dark&hide_border=true" alt="Agenda Personnel" />
-  </a>
-  <a href="https://github.com/benyoussef999?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benyoussef999&repo=Website-BRICS&theme=github_dark&hide_border=true" alt="Website BRICS" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔍 Script Prompt Engineering Analysis</h3>
+      Analysis of prompt engineering techniques and their applications.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Script-Prompt-Engineering-Analysis">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🏫 Smart Campus</h3>
+      A project focused on smart campus solutions and digitalization.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Smart-Campus">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Uber-cueillete</h3>
+      A digital platform project for collection and transportation.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Uber-cueillete">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 Secure Multi-Agent Tool Orchestration</h3>
+      Exploring secure AI agent orchestration for the Tunisian economy.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Secure-Multi-Agent-Tool-Orchestration-for-the-Tunisian-Economy">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📅 Agenda Personnel</h3>
+      A personal agenda and scheduling management project.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Agenda-Personnel">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🌐 Website BRICS</h3>
+      A website project about the BRICS group.
+      <br/><br/>
+      <a href="https://github.com/BenYoussef999/Website-BRICS">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/benyoussef999?tab=repositories">Explore all repositories →</a>
