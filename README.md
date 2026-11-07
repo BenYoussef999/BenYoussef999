@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Yassine Ben Youssef</h1>
-<h3 align="center">Backend & Systems Engineering | Cybersecurity | AI</h3>
+<h3 align="center">Cybersecurity | AI | Full-Stack Development</h3>
 
 <p align="center">
   📍 Tunis, Tunisia · 💻 Building useful things and learning in public
